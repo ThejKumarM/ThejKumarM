@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @ThejKumarM
-- 👀 I’m interested in Developemnt Activities
-- 🌱 I’m currently learning SpringBoot & AWS Cloud
 - 📫 How to reach me +91-8106330473/thej.kumar@travelport.com/mukundhathejkumar@gmail.com
 
 <!---
